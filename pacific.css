@@ -13,4 +13,18 @@ header{
     color: #000033;
 
  }
- 
+ table > tbody > tr:nth-child(odd){
+    background-color: #F5FAFC;
+ }
+
+ td,th{
+    padding:0.5em;
+ }
+
+ td{
+    text-align: center;
+
+ }
+footer{
+    font-size: 75%;
+}
